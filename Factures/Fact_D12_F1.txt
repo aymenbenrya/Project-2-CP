@@ -1,0 +1,24 @@
+                            Facture
+
+
+
+Num Facture : 1                Date : 01/01/2021
+
+Client : samir                 Num Dossier : 12
+
+TVA : 10 %                  Droit de Timbre : 1000 DA
+
+
+                         Designations : 
+
+1- des1 ...... Debours : 0 DA ...... Prestation : 0 DA
+
+2- des1 ...... Debours : 0 DA ...... Prestation : 0 DA
+
+
+
+Total Debours : 0.0 DA
+
+Total Prestation : 0.0 DA
+
+Total : 0.0 DA
